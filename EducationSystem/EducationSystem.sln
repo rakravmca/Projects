@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationSystem.Web", "EducationSystem.Web\EducationSystem.Web.csproj", "{ADA6F98E-4BAB-4181-A72C-920308AC0F80}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationSystem.Data", "EducationSystem.Data\EducationSystem.Data.csproj", "{99A35190-09DE-4915-BC55-8845B0B42962}"
